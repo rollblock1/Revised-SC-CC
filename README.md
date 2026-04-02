@@ -1,8 +1,7 @@
 # SC-CC
 
-This repository contains an unmodified source code [Claude Code](https://github.com/anthropics/claude-code), Anthropic's AI-powered coding agent.
+[Claude Code](https://github.com/anthropics/claude-code), Anthropic's AI-powered coding agent.
 
-Nothing has been added (besides this README), removed, or changed. This is the raw source as Leaked.
 
 ## What's in here
 
