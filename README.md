@@ -1,4 +1,4 @@
-# Claude Code - Source Leak
+# SC-CC
 
 This repository contains an unmodified leak of the source code for [Claude Code](https://github.com/anthropics/claude-code), Anthropic's AI-powered coding agent.
 
